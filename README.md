@@ -1,4 +1,3 @@
-# vue_jujinahua
 # 前端面试项目冲刺，京东金融Vue组件化实战   http://www.icourse8.com/vue_jujinahua.html
 
 
